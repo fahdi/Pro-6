@@ -2,6 +2,10 @@
 #include<conio.h>
 
 using namespace std;
+
+/*
+This progarm calculates the factorial for a given number
+*/
 int main()
 {
 	int a = 1, b = 1, c;
